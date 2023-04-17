@@ -11,7 +11,7 @@ import model
 
 # Parameter settings ---------------------------------------------------------------------------------------------------
 csv_path = "../input_files.csv"
-out_dir = "../out_data"
+out_dir = "../out_data/"
 
 # hyper parameters
 n_epoch = 1001
