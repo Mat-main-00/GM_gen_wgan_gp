@@ -6,4 +6,5 @@ This repository consists mainly of the following two files.
 - train.py
   - Code for training the model.
 
-To actually perform the training, you need to prepare the training dataset yourself. As an example, this code import data by specifying the path of data for training in the variable "input_file" in train.py and defining Dataloader using class "GroundMotionDatasets" in model.py.
+To actually perform the training, you need to prepare the training dataset yourself. As an example,
+this code import data by specifying the path of data for training in the variable "csv_path" in train.py and defining Dataloader using class "GroundMotionDatasets" in model.py.
