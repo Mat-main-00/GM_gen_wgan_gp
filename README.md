@@ -1,4 +1,11 @@
 # Generation of ground motion data by Wasserstein GAN-GP
+This repository contains the code and hyperparameters for the paper:
+
+Matsumoto, Y., Yaoyama, T., Lee, S., Hida, T. and Itoi, T. (2023), Fundamental study on probabilistic generative modeling of earthquake ground motion time histories using generative adversarial networks. Jpn Archit Rev, 6: e12392. https://doi.org/10.1002/2475-8876.12392
+
+Please cite this paper if you use the code in this repository as part of a published research project.
+
+## Usage
 This repository consists mainly of the following two files.
 
 - model.py
